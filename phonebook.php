@@ -1,1 +1,2 @@
-# netology
+<?php
+?>
