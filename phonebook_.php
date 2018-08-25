@@ -6,8 +6,11 @@
     <title>Телефоны</title>
 </head>
 <style>
+table{
+border-collapse: collapse;
+}
 table td, th{
-    border:0px solid black;
+    border:3px solid black;
     margin:0;
     background: rgb(0, 255, 219);
 }
