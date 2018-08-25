@@ -5,6 +5,12 @@
   "phoneNumber": "812 123-1234"
 }, 
 {
+  "firstName": "Чжун",
+  "lastName": "Ху",
+  "address": "г.Тайбей, ул. Янь,2",
+  "phoneNumber": "812 2626666"
+}, 
+{
   "firstName": "Сидоров",
   "lastName": "Иванов",
   "address": "г.Москва, ул. Махмуджана,2",
